@@ -113,7 +113,7 @@ data/train_faces/
 
 ### **2. Train the Swin Model**
 
-Run the training script:
+Run the training script:NO need of train_faces 
 
 ```bash
 python train_swin.py
